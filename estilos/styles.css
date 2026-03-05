@@ -15,7 +15,7 @@
 }
 
 #flor {
-    background: black url(../imagens/background001.jpg) right center / cover no-repeat fixed;
+    background: black url(../imagens/background001.jpg) right center / cover no-repeat fixed; /*Paralax*/
     color: white;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.281);
 
@@ -31,12 +31,12 @@
 }
 
 #carta {
-    background: black url(../imagens/background002.jpg) left top / cover no-repeat fixed;
+    background: black url(../imagens/background002.jpg) left top / cover no-repeat fixed; /*Paralax*/
     color: white;
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.281);
 }
 
-#carta > p{
+#carta > p {
     display: inline-block;
     margin-left: 30px;
     margin-top: 40px;
